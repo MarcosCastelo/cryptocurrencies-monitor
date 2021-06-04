@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.content {
+    padding: 13px 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.positive {
+    color: rgb(24, 196, 2)
+}
+
+.negative {
+    color:rgb(175, 6, 6)
+}

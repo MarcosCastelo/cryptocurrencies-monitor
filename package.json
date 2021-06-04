@@ -14,6 +14,7 @@
   "author": "Marcos Vitor Castelo Branco Nunes",
   "license": "ISC",
   "dependencies": {
+    "coingecko-api": "^1.0.10",
     "electron": "^13.1.0"
   }
 }
